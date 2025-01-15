@@ -1,0 +1,753 @@
+Country,Rank,Index,Name Group,Localized Name,Romanized Name,Count,Percent
+Japan,1,1,JP-1,佐藤,Satō,1990000,0.0157
+Japan,2,2,JP-2,鈴木,Suzuki,1900000,0.0150
+Japan,3,3,JP-3,高橋,Takahashi,1470000,0.0116
+Japan,4,4,JP-4,田中,Tanaka,1340000,0.0106
+Japan,5,5,JP-5,渡辺,Watanabe,1200000,0.0095
+Japan,6,6,JP-6,伊藤,Itō,1150000,0.0091
+Japan,7,7,JP-7,中村,Nakamura,1080000,0.0085
+Japan,8,8,JP-8,小林,Kobayashi,1060000,0.0084
+Japan,9,9,JP-9,山本,Yamamoto,1020000,0.0081
+Japan,10,10,JP-10,加藤,Katō,920000,0.0073
+Japan,11,11,JP-11,吉田,Yoshida,850000,
+Japan,12,12,JP-12,山田,Yamada,820000,
+Japan,13,13,JP-13,佐々木,Sasaki,710000,
+Japan,14,14,JP-14,山口,Yamaguchi,640000,
+Japan,15,15,JP-15,松本,Matsumoto,630000,
+Japan,16,16,JP-16,井上,Inoue,600000,
+Japan,17,17,JP-17,木村,Kimura,580000,
+Japan,18,18,JP-18,清水,Shimizu,560000,
+Japan,19,19,JP-19,林,Hayashi,550000,
+Japan,20,20,JP-20,斉藤,Saitō,530000,
+Japan,21,21,JP-21,斎藤,Saitō,520000,
+Japan,22,22,JP-22,山崎,Yamazaki,490000,
+Japan,22,22,JP-22,山崎,Yamasaki,490000,
+Japan,23,23,JP-23,中島,Nakajima,480000,
+Japan,23,23,JP-23,中島,Nakashima,480000,
+Japan,24,24,JP-24,森,Mori,470000,
+Japan,25,25,JP-25,阿部,Abe,470000,
+Japan,26,26,JP-26,池田,Ikeda,450000,
+Japan,27,27,JP-27,橋本,Hashimoto,450000,
+Japan,28,28,JP-28,石川,Ishikawa,440000,
+Japan,29,29,JP-29,山下,Yamashita,410000,
+Japan,30,30,JP-30,小川,Ogawa,410000,
+Japan,31,31,JP-31,石井,Ishii,400000,
+Japan,32,32,JP-32,長谷川,Hasegawa,390000,
+Japan,33,33,JP-33,後藤,Gotō,390000,
+Japan,34,34,JP-34,岡田,Okada,380000,
+Japan,35,35,JP-35,近藤,Kondō,370000,
+Japan,36,36,JP-36,前田,Maeda,370000,
+Japan,37,37,JP-37,藤田,Fujita,370000,
+Japan,38,38,JP-38,遠藤,Endō,360000,
+Japan,39,39,JP-39,青木,Aoki,350000,
+Japan,40,40,JP-40,坂本,Sakamoto,350000,
+Japan,41,41,JP-41,村上,Murakami,340000,
+Japan,42,42,JP-42,太田,Ōta,320000,
+Japan,43,43,JP-43,金子,Kaneko,310000,
+Japan,44,44,JP-44,藤井,Fujii,310000,
+Japan,45,45,JP-45,福田,Fukuda,300000,
+Japan,46,46,JP-46,西村,Nishimura,300000,
+Japan,47,47,JP-47,三浦,Miura,300000,
+Japan,48,48,JP-48,竹内,Takeuchi,290000,
+Japan,49,49,JP-49,中川,Nakagawa,290000,
+Japan,50,50,JP-50,岡本,Okamoto,290000,
+Japan,51,51,JP-51,松田,Matsuda,290000,
+Japan,52,52,JP-52,原田,Harada,290000,
+Japan,53,53,JP-53,中野,Nakano,290000,
+Japan,54,54,JP-54,小野,Ono,280000,
+Japan,55,55,JP-55,田村,Tamura,280000,
+Japan,56,56,JP-56,藤原,Fujiwara,270000,
+Japan,56,56,JP-56,藤原,Fujihara,270000,
+Japan,57,57,JP-57,中山,Nakayama,270000,
+Japan,58,58,JP-58,石田,Ishida,270000,
+Japan,59,59,JP-59,小島,Kojima,260000,
+Japan,60,60,JP-60,和田,Wada,260000,
+Japan,61,61,JP-61,森田,Morita,250000,
+Japan,62,62,JP-62,内田,Uchida,250000,
+Japan,63,63,JP-63,柴田,Shibata,250000,
+Japan,64,64,JP-64,酒井,Sakai,240000,
+Japan,65,65,JP-65,原,Hara,240000,
+Japan,66,66,JP-66,高木,Takagi,240000,
+Japan,66,66,JP-66,高木,Takaki,240000,
+Japan,67,67,JP-67,横山,Yokoyama,240000,
+Japan,68,68,JP-68,安藤,Andō,240000,
+Japan,69,69,JP-69,宮崎,Miyazaki,240000,
+Japan,69,69,JP-69,宮崎,Miyasaki,240000,
+Japan,70,70,JP-70,上田,Ueda,240000,
+Japan,70,70,JP-70,上田,Ueta,240000,
+Japan,71,71,JP-71,島田,Shimada,230000,
+Japan,72,72,JP-72,工藤,Kudō,230000,
+Japan,73,73,JP-73,大野,Ōno,220000,
+Japan,74,74,JP-74,宮本,Miyamoto,220000,
+Japan,75,75,JP-75,杉山,Sugiyama,220000,
+Japan,76,76,JP-76,今井,Imai,220000,
+Japan,77,77,JP-77,丸山,Maruyama,210000,
+Japan,78,78,JP-78,増田,Masuda,210000,
+Japan,79,79,JP-79,高田,Takada,210000,
+Japan,79,79,JP-79,高田,Takata,210000,
+Japan,80,80,JP-80,村田,Murata,210000,
+Japan,81,81,JP-81,平野,Hirano,210000,
+Japan,82,82,JP-82,大塚,Ōtsuka,210000,
+Japan,83,83,JP-83,菅原,Sugawara,210000,
+Japan,83,83,JP-83,菅原,Sugahara,210000,
+Japan,84,84,JP-84,武田,Takeda,200000,
+Japan,84,84,JP-84,武田,Taketa,200000,
+Japan,85,85,JP-85,新井,Arai,200000,
+Japan,86,86,JP-86,小山,Koyama,200000,
+Japan,86,86,JP-86,小山,Oyama,200000,
+Japan,87,87,JP-87,野口,Noguchi,200000,
+Japan,88,88,JP-88,桜井,Sakurai,200000,
+Japan,89,89,JP-89,千葉,Chiba,200000,
+Japan,90,90,JP-90,岩崎,Iwasaki,200000,
+Japan,91,91,JP-91,佐野,Sano,200000,
+Japan,92,92,JP-92,谷口,Taniguchi,200000,
+Japan,93,93,JP-93,上野,Ueno,200000,
+Japan,94,94,JP-94,松井,Matsui,190000,
+Japan,95,95,JP-95,河野,Kōno,190000,
+Japan,95,95,JP-95,河野,Kawano,190000,
+Japan,96,96,JP-96,市川,Ichikawa,190000,
+Japan,97,97,JP-97,渡部,Watanabe,190000,
+Japan,97,97,JP-97,渡部,Watabe,190000,
+Japan,98,98,JP-98,野村,Nomura,180000,
+Japan,99,99,JP-99,菊地,Kikuchi,180000,
+Japan,100,100,JP-100,木下,Kinoshita,180000,
+Russian Federation,1,1,RU-1,Смирно́в,Smirnov,2308740,0.0161
+Russian Federation,2,2,RU-2,Ивано́в,Ivanov,1864200,0.0130
+Russian Federation,3,3,RU-3,Кузнецо́в,Kuznetsov,1290600,0.0090
+Russian Federation,4,4,RU-4,Попо́в,Popov,1132860,0.0079
+Russian Federation,5,5,RU-5,Соколо́в,Sokolov,1046820,0.0073
+Russian Federation,6,6,RU-6,Ле́бедев,Lebedev,932100,0.0065
+Russian Federation,7,7,RU-7,Козло́в,Kozlov,831720,0.0058
+Russian Federation,8,8,RU-8,Но́виков,Novikov,774360,0.0054
+Russian Federation,9,9,RU-9,Моро́зов,Morozov,760020,0.0053
+Russian Federation,10,10,RU-10,Петро́в,Petrov,630960,0.0044
+Russian Federation,11,11,RU-11,Во́лков,Volkov,630960,0.0044
+Russian Federation,12,12,RU-12,Соловьёв,Solovyov,630960,0.0044
+Russian Federation,13,13,RU-13,Васи́льев,Vasilyev,602280,0.0042
+Russian Federation,14,14,RU-14,За́йцев,Zaytsev,587940,0.0041
+Russian Federation,15,15,RU-15,Па́влов,Pavlov,559260,0.0039
+Russian Federation,16,16,RU-16,Семёнов,Semyonov,501900,0.0035
+Russian Federation,17,17,RU-17,Го́лубев,Golubev,458880,0.0032
+Russian Federation,18,18,RU-18,Виногра́дов,Vinogradov,458880,0.0032
+Russian Federation,19,19,RU-19,Богда́нов,Bogdanov,444540,0.0031
+Russian Federation,20,20,RU-20,Воробьёв,Vorobyov,430200,0.0030
+Austria,1,1,AT-1,Gruber,Gruber,35743,0.0040
+Austria,2,2,AT-2,Huber,Huber,34686,0.0039
+Austria,3,3,AT-3,Bauer,Bauer,30208,0.0034
+Austria,4,4,AT-4,Wagner,Wagner,27763,0.0031
+Austria,5,5,AT-5,Müller,Müller,26975,0.0030
+Austria,6,6,AT-6,Pichler,Pichler,24655,0.0028
+Austria,7,7,AT-7,Steiner,Steiner,24297,0.0027
+Austria,8,8,AT-8,Moser,Moser,23948,0.0027
+Austria,9,9,AT-9,Mayer,Mayer,23760,0.0027
+Austria,10,10,AT-10,Hofer,Hofer,22201,0.0025
+Austria,11,11,AT-11,Leitner,Leitner,21754,0.0024
+Austria,12,12,AT-12,Berger,Berger,21342,0.0024
+Austria,13,13,AT-13,Fuchs,Fuchs,20151,0.0023
+Austria,14,14,AT-14,Eder,Eder,19201,0.0021
+Austria,15,15,AT-15,Fischer,Fischer,19174,0.0021
+Austria,16,16,AT-16,Schmid,Schmid,18941,0.0021
+Austria,17,17,AT-17,Winkler,Winkler,18046,0.0020
+Austria,18,18,AT-18,Weber,Weber,17867,0.0020
+Austria,19,19,AT-19,Schwarz,Schwarz,17562,0.0020
+Austria,20,20,AT-20,Maier,Maier,17428,0.0019
+Austria,21,21,AT-21,Schneider,Schneider,17150,0.0019
+Austria,22,22,AT-22,Reiter,Reiter,16031,0.0018
+Austria,23,23,AT-23,Mayr,Mayr,15681,0.0018
+Austria,24,24,AT-24,Schmidt,Schmidt,15583,0.0017
+Austria,25,25,AT-25,Wimmer,Wimmer,14580,0.0016
+Austria,26,26,AT-26,Egger,Egger,14419,0.0016
+Austria,27,27,AT-27,Brunner,Brunner,14347,0.0016
+Austria,28,28,AT-28,Lang,Lang,14320,0.0016
+Austria,29,29,AT-29,Baumgartner,Baumgartner,14204,0.0016
+Austria,30,30,AT-30,Auer,Auer,13926,0.0016
+Austria,31,31,AT-31,Binder,Binder,13057,0.0015
+Austria,32,32,AT-32,Lechner,Lechner,12851,0.0014
+Austria,33,33,AT-33,Wolf,Wolf,12493,0.0014
+Austria,34,34,AT-34,Wallner,Wallner,12484,0.0014
+Austria,35,35,AT-35,Aigner,Aigner,12413,0.0014
+Austria,36,36,AT-36,Ebner,Ebner,12018,0.0013
+Austria,37,37,AT-37,Koller,Koller,11651,0.0013
+Austria,38,38,AT-38,Lehner,Lehner,11356,0.0013
+Austria,39,39,AT-39,Haas,Haas,11293,0.0013
+Austria,40,40,AT-40,Schuster,Schuster,10460,0.0012
+Austria,41,41,AT-41,Heilig,Heilig,10397,0.0012
+Belgium,1,1,BE-1,Peeters,Peeters,31079,
+Belgium,2,2,BE-2,Janssens,Janssens,28532,
+Belgium,3,3,BE-3,Maes,Maes,24594,
+Belgium,4,4,BE-4,Jacobs,Jacobs,19077,
+Belgium,5,5,BE-5,Mertens,Mertens,17906,
+Belgium,6,6,BE-6,Willems,Willems,17747,
+Belgium,7,7,BE-7,Claes,Claes,15798,
+Belgium,8,8,BE-8,Goossens,Goossens,15269,
+Belgium,9,9,BE-9,Wouters,Wouters,14999,
+Belgium,10,10,BE-10,De Smet,De Smet,13484,
+Belgium,13,11,BE-11,Dubois,Dubois,12387,
+Belgium,17,12,BE-12,Lambert,Lambert,11232,
+Belgium,21,13,BE-13,Dupont,Dupont,9795,
+Belgium,31,14,BE-14,Martin,Martin,8677,
+Belgium,36,15,BE-15,Diallo,Diallo,8159,
+Belgium,37,16,BE-16,Simon,Simon,7533,
+Belgium,40,17,BE-17,Dumont,Dumont,7389,
+Belgium,45,18,BE-18,Leclercq,Leclercq,7117,
+Belgium,47,19,BE-19,Laurent,Laurent,6785,
+Belgium,50,20,BE-20,Denis,Denis,6636,
+Belgium,59,21,BE-21,Lejeune,Lejeune,6246,
+Belgium,119,22,BE-22,Bah,Bah,4516,
+Belgium,234,23,BE-23,Barry,Barry,3332,
+Belgium,318,24,BE-24,Nguyen,Nguyen,2736,
+Belgium,451,25,BE-25,Sow,Sow,2132,
+Belgium,956,26,BE-26,Benali,Benali,1267,
+Czechia,1,1,CZ-1,Novák,Novák,69726,
+Czechia,1,1,CZ-1,Nováková,Nováková,69726,
+Czechia,2,2,CZ-2,Svoboda,Svoboda,51861,
+Czechia,2,2,CZ-2,Svobodová,Svobodová,51861,
+Czechia,3,3,CZ-3,Novotný,Novotný,49648,
+Czechia,3,3,CZ-3,Novotná,Novotná,49648,
+Czechia,4,4,CZ-4,Dvořák,Dvořák,45744,
+Czechia,4,4,CZ-4,Dvořáková,Dvořáková,45744,
+Czechia,5,5,CZ-5,Černý,Černý,36317,
+Czechia,5,5,CZ-5,Černá,Černá,36317,
+Czechia,6,6,CZ-6,Procházka,Procházka,32891,
+Czechia,6,6,CZ-6,Procházková,Procházková,32891,
+Czechia,7,7,CZ-7,Kučera,Kučera,30876,
+Czechia,7,7,CZ-7,Kučerová,Kučerová,30876,
+Czechia,8,8,CZ-8,Veselý,Veselý,26376,
+Czechia,8,8,CZ-8,Veselá,Veselá,26376,
+Czechia,9,9,CZ-9,Horák,Horák,24961,
+Czechia,9,9,CZ-9,Horáková,Horáková,24961,
+Czechia,10,10,CZ-10,Němec,Němec,22755,
+Czechia,10,10,CZ-10,Němcová,Němcová,22755,
+France,1,1,FR-1,Martin,Martin,235846,
+France,2,2,FR-2,Bernard,Bernard,105132,
+France,3,3,FR-3,Dubois,Dubois,95998,
+France,4,4,FR-4,Thomas,Thomas,95387,
+France,5,5,FR-5,Robert,Robert,91393,
+France,6,6,FR-6,Richard,Richard,90689,
+France,7,7,FR-7,Petit,Petit,88318,
+France,8,8,FR-8,Durand,Durand,84252,
+France,9,9,FR-9,Leroy,Leroy,78868,
+France,10,10,FR-10,Moreau,Moreau,78177,
+France,11,11,FR-11,Simon,Simon,76655,
+France,12,12,FR-12,Laurent,Laurent,75307,
+France,13,13,FR-13,Lefebvre,Lefebvre,74564,
+France,14,14,FR-14,Michel,Michel,74318,
+France,15,15,FR-15,Garcia,Garcia,68720,
+France,16,16,FR-16,David,David,61762,
+France,17,17,FR-17,Bertrand,Bertrand,59817,
+France,18,18,FR-18,Roux,Roux,59440,
+France,19,19,FR-19,Vincent,Vincent,57351,
+France,20,20,FR-20,Fournier,Fournier,57047,
+France,21,21,FR-21,Morel,Morel,56760,
+France,22,22,FR-22,Girard,Girard,55642,
+France,23,23,FR-23,André,André,55228,
+France,24,24,FR-24,Lefèvre,Lefèvre,53670,
+France,25,25,FR-25,Mercier,Mercier,53622,
+France,26,26,FR-26,Dupont,Dupont,53405,
+France,27,27,FR-27,Lambert,Lambert,51543,
+France,28,28,FR-28,Bonnet,Bonnet,50999,
+France,29,29,FR-29,François,François,50612,
+France,30,30,FR-30,Martinez,Martinez,49762,
+Germany,1,1,DE-1,Müller,Müller,790400,0.0095
+Germany,2,2,DE-2,Schmidt,Schmidt,574080,0.0069
+Germany,3,3,DE-3,Schneider,Schneider,332800,0.0040
+Germany,4,4,DE-4,Fischer,Fischer,291200,0.0035
+Germany,5,5,DE-5,Meyer,Meyer,274560,0.0033
+Germany,6,6,DE-6,Weber,Weber,249600,0.0030
+Germany,7,7,DE-7,Wagner,Wagner,224640,0.0027
+Germany,8,8,DE-8,Schulz,Schulz,224640,0.0027
+Germany,9,9,DE-9,Becker,Becker,224640,0.0027
+Germany,10,10,DE-10,Hoffmann,Hoffmann,216320,0.0026
+Hungary,1,1,HU-1,Nagy,Nagy,,
+Hungary,2,2,HU-2,Kovács,Kovács,,
+Hungary,3,3,HU-3,Tóth,Tóth,,
+Hungary,4,4,HU-4,Szabó,Szabó,,
+Hungary,5,5,HU-5,Horváth,Horváth,,
+Hungary,6,6,HU-6,Varga,Varga,,
+Hungary,7,7,HU-7,Kiss,Kiss,,
+Hungary,8,8,HU-8,Molnár,Molnár,,
+Hungary,9,9,HU-9,Németh,Németh,,
+Hungary,10,10,HU-10,Farkas,Farkas,,
+Hungary,11,11,HU-11,Balogh,Balogh,,
+Hungary,12,12,HU-12,Papp,Papp,,
+Hungary,13,13,HU-13,Lakatos,Lakatos,,
+Hungary,14,14,HU-14,Takács,Takács,,
+Hungary,15,15,HU-15,Juhász,Juhász,,
+Hungary,16,16,HU-16,Mészáros,Mészáros,,
+Hungary,17,17,HU-17,Oláh,Oláh,,
+Hungary,18,18,HU-18,Simon,Simon,,
+Hungary,19,19,HU-19,Rácz,Rácz,,
+Hungary,20,20,HU-20,Fekete,Fekete,,
+Hungary,21,21,HU-21,Szilágyi,Szilágyi,,
+Hungary,22,22,HU-22,Török,Török,,
+Hungary,23,23,HU-23,Fehér,Fehér,,
+Hungary,24,24,HU-24,Balázs,Balázs,,
+Hungary,25,25,HU-25,Gál,Gál,,
+Ireland,1,1,IE-1,Ó Murchú,Murphy,,
+Ireland,2,2,IE-2,Ó Ceallaigh,O'Kelly,,
+Ireland,2,2,IE-2,,Kelly,,
+Ireland,3,3,IE-3,Ó Súilleabháin,O'Sullivan,,
+Ireland,3,3,IE-3,,Sullivan,,
+Ireland,4,4,IE-4,Breathnach,Walsh,,
+Ireland,5,5,IE-5,Mac Gabhann,Smith,,
+Ireland,6,6,IE-6,Ó Briain,O'Brien,,
+Ireland,7,7,IE-7,Ó Broin,O'Byrne,,
+Ireland,7,7,IE-7,,Byrne,,
+Ireland,8,8,IE-8,Ó Riain,O'Ryan,,
+Ireland,8,8,IE-8,,Ryan,,
+Ireland,9,9,IE-9,Ó Conchúir,O'Connor,,
+Ireland,10,10,IE-10,Ó Néill,O'Neill,,
+Ireland,11,11,IE-11,Ó Raghallaigh,O'Reilly,,
+Ireland,11,11,IE-11,,Reilly,,
+Ireland,12,12,IE-12,Ó Dubhghaill,Doyle,,
+Ireland,13,13,IE-13,Mac Cárthaigh,McCarthy,,
+Ireland,14,14,IE-14,Ó Gallchóir,O'Gallagher,,
+Ireland,14,14,IE-14,,Gallagher,,
+Ireland,15,15,IE-15,Ó Dochartaigh,O'Doherty,,
+Ireland,15,15,IE-15,,Doherty,,
+Ireland,16,16,IE-16,Ó Cinnéide,Kennedy,,
+Ireland,17,17,IE-17,Ó Loingsigh,Lynch,,
+Ireland,18,18,IE-18,Ó Muireadhaigh,Murray,,
+Ireland,19,19,IE-19,Ó Cuinn,O'Quinn,,
+Ireland,19,19,IE-19,,Quinn,,
+Ireland,20,20,IE-20,Ó Mórdha,O'Moore,,
+Ireland,20,20,IE-20,,Moore,,
+Italy,1,1,IT-1,Rossi,Rossi,60,
+Italy,2,2,IT-2,Russo,Russo,43,
+Italy,3,3,IT-3,Ferrari,Ferrari,34,
+Italy,4,4,IT-4,Esposito,Esposito,32,
+Italy,5,5,IT-5,Bianchi,Bianchi,25,
+Italy,6,6,IT-6,Romano,Romano,24,
+Italy,7,7,IT-7,Colombo,Colombo,23,
+Italy,8,8,IT-8,Bruno,Bruno,21,
+Italy,9,9,IT-9,Ricci,Ricci,20,
+Italy,10,10,IT-10,Greco,Greco,18,
+Italy,11,11,IT-11,Marino,Marino,18,
+Italy,12,12,IT-12,Gallo,Gallo,18,
+Italy,13,13,IT-13,De Luca,De Luca,17,
+Italy,14,14,IT-14,Conti,Conti,17,
+Italy,15,15,IT-15,Costa,Costa,17,
+Italy,16,16,IT-16,Mancini,Mancini,17,
+Italy,17,17,IT-17,Giordano,Giordano,17,
+Italy,18,18,IT-18,Rizzo,Rizzo,16,
+Italy,19,19,IT-19,Lombardi,Lombardi,15,
+Italy,20,20,IT-20,Barbieri,Barbieri,14,
+Italy,21,21,IT-21,Moretti,Moretti,14,
+Italy,22,22,IT-22,Fontana,Fontana,14,
+Italy,23,23,IT-23,Caruso,Caruso,14,
+Italy,24,24,IT-24,Mariani,Mariani,14,
+Italy,25,25,IT-25,Ferrara,Ferrara,13,
+Italy,26,26,IT-26,Santoro,Santoro,13,
+Italy,27,27,IT-27,Rinaldi,Rinaldi,13,
+Italy,28,28,IT-28,Leone,Leone,13,
+Italy,29,29,IT-29,D'Angelo,D'Angelo,13,
+Italy,30,30,IT-30,Longo,Longo,12,
+Italy,31,31,IT-31,Galli,Galli,12,
+Italy,32,32,IT-32,Martini,Martini,12,
+Italy,33,33,IT-33,Martinelli,Martinelli,12,
+Italy,34,34,IT-34,Serra,Serra,11,
+Italy,35,35,IT-35,Conte,Conte,11,
+Italy,36,36,IT-36,Vitale,Vitale,11,
+Italy,37,37,IT-37,De Santis,De Santis,11,
+Italy,38,38,IT-38,Marchetti,Marchetti,11,
+Italy,39,39,IT-39,Messina,Messina,11,
+Italy,40,40,IT-40,Gentile,Gentile,11,
+Italy,41,41,IT-41,Villa,Villa,11,
+Italy,42,42,IT-42,Marini,Marini,11,
+Italy,43,43,IT-43,Lombardo,Lombardo,11,
+Italy,44,44,IT-44,Coppola,Coppola,11,
+Italy,45,45,IT-45,Ferri,Ferri,11,
+Italy,46,46,IT-46,Parisi,Parisi,11,
+Italy,47,47,IT-47,De Angelis,De Angelis,11,
+Italy,48,48,IT-48,Bianco,Bianco,10,
+Italy,49,49,IT-49,Amato,Amato,10,
+Italy,50,50,IT-50,Fabbri,Fabbri,10,
+Italy,51,51,IT-51,Gatti,Gatti,10,
+Italy,52,52,IT-52,Sala,Sala,10,
+Italy,53,53,IT-53,Morelli,Morelli,10,
+Italy,54,54,IT-54,Grasso,Grasso,10,
+Italy,55,55,IT-55,Pellegrini,Pellegrini,10,
+Italy,56,56,IT-56,Ferraro,Ferraro,10,
+Italy,57,57,IT-57,Monti,Monti,10,
+Italy,58,58,IT-58,Palumbo,Palumbo,10,
+Italy,59,59,IT-59,Grassi,Grassi,10,
+Italy,60,60,IT-60,Testa,Testa,10,
+Italy,61,61,IT-61,Valentini,Valentini,9,
+Italy,62,62,IT-62,Carbone,Carbone,9,
+Italy,63,63,IT-63,Benedetti,Benedetti,9,
+Italy,64,64,IT-64,Silvestri,Silvestri,9,
+Italy,65,65,IT-65,Farina,Farina,9,
+Italy,66,66,IT-66,D'Amico,D'Amico,9,
+Italy,67,67,IT-67,Martino,Martino,9,
+Italy,68,68,IT-68,Bernardi,Bernardi,9,
+Italy,69,69,IT-69,Caputo,Caputo,9,
+Italy,70,70,IT-70,Mazza,Mazza,9,
+Italy,71,71,IT-71,Sanna,Sanna,9,
+Italy,72,72,IT-72,Fiore,Fiore,9,
+Italy,73,73,IT-73,De Rosa,De Rosa,9,
+Italy,74,74,IT-74,Pellegrino,Pellegrino,9,
+Italy,75,75,IT-75,Giuliani,Giuliani,9,
+Italy,76,76,IT-76,Rizzi,Rizzi,9,
+Italy,77,77,IT-77,Di Stefano,Di Stefano,9,
+Italy,78,78,IT-78,Cattaneo,Cattaneo,8,
+Italy,79,79,IT-79,Rossetti,Rossetti,8,
+Italy,80,80,IT-80,Orlando,Orlando,8,
+Italy,81,81,IT-81,Basile,Basile,8,
+Italy,82,82,IT-82,Neri,Neri,8,
+Italy,83,83,IT-83,Barone,Barone,8,
+Italy,84,84,IT-84,Palmieri,Palmieri,8,
+Italy,85,85,IT-85,Riva,Riva,8,
+Italy,86,86,IT-86,Romeo,Romeo,8,
+Italy,87,87,IT-87,Franco,Franco,8,
+Italy,88,88,IT-88,Sorrentino,Sorrentino,8,
+Italy,89,89,IT-89,Pagano,Pagano,8,
+Italy,90,90,IT-90,D'Agostino,D'Agostino,8,
+Italy,91,91,IT-91,Piras,Piras,8,
+Italy,92,92,IT-92,Ruggiero,Ruggiero,8,
+Italy,93,93,IT-93,Montanari,Montanari,8,
+Italy,94,94,IT-94,Battaglia,Battaglia,8,
+Italy,95,95,IT-95,Bellini,Bellini,8,
+Italy,96,96,IT-96,Castelli,Castelli,8,
+Italy,97,97,IT-97,Guerra,Guerra,8,
+Italy,98,98,IT-98,Poli,Poli,8,
+Italy,99,99,IT-99,Valente,Valente,7,
+Italy,100,100,IT-100,Ferretti,Ferretti,7,
+Netherlands,1,1,NL-1,De Jong,De Jong,86534,0.0053
+Netherlands,2,2,NL-2,Jansen,Jansen,75699,0.0046
+Netherlands,3,3,NL-3,De Vries,De Vries,73157,0.0045
+Netherlands,4,4,NL-4,Van den Berg,Van den Berg,60130,0.0037
+Netherlands,5,5,NL-5,Van Dijk,Van Dijk,57944,0.0035
+Netherlands,5,5,NL-5,Van Dyk,Van Dyk,57944,0.0035
+Netherlands,6,6,NL-6,Bakker,Bakker,56864,0.0035
+Netherlands,7,7,NL-7,Janssen,Janssen,55394,0.0034
+Netherlands,8,8,NL-8,Visser,Visser,50929,0.0031
+Netherlands,9,9,NL-9,Smit,Smit,43493,0.0027
+Netherlands,10,10,NL-10,Meijer,Meijer,41497,0.0025
+Netherlands,10,10,NL-10,Meyer,Meyer,41497,0.0025
+Netherlands,11,11,NL-11,De Boer,De Boer,39576,0.0024
+Netherlands,12,12,NL-12,Mulder,Mulder,37250,0.0023
+Netherlands,13,13,NL-13,De Groot,De Groot,37221,0.0023
+Netherlands,14,14,NL-14,Bos,Bos,36478,0.0022
+Netherlands,15,15,NL-15,Vos,Vos,31154,0.0019
+Netherlands,16,16,NL-16,Peters,Peters,30864,0.0019
+Netherlands,17,17,NL-17,Hendriks,Hendriks,30199,0.0018
+Netherlands,18,18,NL-18,Van Leeuwen,Van Leeuwen,28774,0.0018
+Netherlands,19,19,NL-19,Dekker,Dekker,28682,0.0017
+Netherlands,20,20,NL-20,Brouwer,Brouwer,26224,0.0016
+Netherlands,21,21,NL-21,De Wit,De Wit,24904,0.0015
+Netherlands,22,22,NL-22,Dijkstra,Dijkstra,24175,0.0015
+Netherlands,23,23,NL-23,Smits,Smits,23816,0.0015
+Netherlands,24,24,NL-24,De Graaf,De Graaf,21699,0.0013
+Netherlands,25,25,NL-25,Van der Meer,Van der Meer,21354,0.0013
+Poland,1,1,PL-1,Nowak,Nowak,207348,
+Poland,2,2,PL-2,Kowalski,Kowalski,140471,
+Poland,3,3,PL-3,Wiśniewski,Wiśniewski,111174,
+Poland,4,4,PL-4,Wójcik,Wójcik,100064,
+Poland,5,5,PL-5,Kowalczyk,Kowalczyk,98739,
+Poland,6,6,PL-6,Kamiński,Kamiński,95816,
+Poland,7,7,PL-7,Lewandowski,Lewandowski,93404,
+Poland,8,8,PL-8,Zieliński,Zieliński,91522,
+Poland,9,9,PL-9,Szymański,Szymański,89698,
+Poland,10,10,PL-10,Woźniak,Woźniak,89015,
+Poland,11,11,PL-11,Dąbrowski,Dąbrowski,87304,
+Poland,12,12,PL-12,Kozłowski,Kozłowski,76657,
+Poland,13,13,PL-13,Jankowski,Jankowski,69280,
+Poland,14,14,PL-14,Mazur,Mazur,68090,
+Poland,15,15,PL-15,Kwiatkowski,Kwiatkowski,66917,
+Poland,16,16,PL-16,Wojciechowski,Wojciechowski,66879,
+Poland,17,17,PL-17,Krawczyk,Krawczyk,64543,
+Poland,18,18,PL-18,Kaczmarek,Kaczmarek,62399,
+Poland,19,19,PL-19,Piotrowski,Piotrowski,61844,
+Poland,20,20,PL-20,Grabowski,Grabowski,59052,
+Portugal,1,1,PT-1,Silva,Silva,975152,0.0944
+Portugal,2,2,PT-2,Santos,Santos,615668,0.0596
+Portugal,3,3,PT-3,Ferreira,Ferreira,542325,0.0525
+Portugal,4,4,PT-4,Pereira,Pereira,504104,0.0488
+Portugal,5,5,PT-5,Oliveira,Oliveira,383243,0.0371
+Portugal,6,6,PT-6,Costa,Costa,380144,0.0368
+Portugal,7,7,PT-7,Rodrigues,Rodrigues,368781,0.0357
+Portugal,8,8,PT-8,Martins,Martins,333659,0.0323
+Portugal,9,9,PT-9,Jesus,Jesus,308867,0.0299
+Portugal,10,10,PT-10,Sousa,Sousa,304735,0.0295
+Portugal,11,11,PT-11,Fernandes,Fernandes,291306,0.0282
+Portugal,12,12,PT-12,Gonçalves,Gonçalves,285108,0.0276
+Portugal,13,13,PT-13,Gomes,Gomes,265481,0.0257
+Portugal,14,14,PT-14,Lopes,Lopes,260316,0.0252
+Portugal,15,15,PT-15,Marques,Marques,259283,0.0251
+Portugal,16,16,PT-16,Alves,Alves,244821,0.0237
+Portugal,17,17,PT-17,Almeida,Almeida,234491,0.0227
+Portugal,18,18,PT-18,Ribeiro,Ribeiro,234491,0.0227
+Portugal,19,19,PT-19,Pinto,Pinto,215897,0.0209
+Portugal,20,20,PT-20,Carvalho,Carvalho,203501,0.0197
+Portugal,21,21,PT-21,Teixeira,Teixeira,174577,0.0169
+Portugal,22,22,PT-22,Moreira,Moreira,159082,0.0154
+Portugal,23,23,PT-23,Correia,Correia,158049,0.0153
+Portugal,24,24,PT-24,Mendes,Mendes,143587,0.0139
+Portugal,25,25,PT-25,Nunes,Nunes,136356,0.0132
+Portugal,26,26,PT-26,Soares,Soares,132224,0.0128
+Portugal,27,27,PT-27,Vieira,Vieira,123960,0.0120
+Portugal,28,28,PT-28,Monteiro,Monteiro,114663,0.0111
+Portugal,29,29,PT-29,Cardoso,Cardoso,110531,0.0107
+Portugal,30,30,PT-30,Rocha,Rocha,107432,0.0104
+Portugal,31,31,PT-31,Neves,Neves,101234,0.0098
+Portugal,32,32,PT-32,Coelho,Coelho,100201,0.0097
+Portugal,33,33,PT-33,Cruz,Cruz,97102,0.0094
+Portugal,34,34,PT-34,Cunha,Cunha,96069,0.0093
+Portugal,35,35,PT-35,Pires,Pires,95036,0.0092
+Portugal,36,36,PT-36,Duarte,Duarte,88838,0.0086
+Portugal,37,37,PT-37,Reis,Reis,87805,0.0085
+Portugal,38,38,PT-38,Simões,Simões,87805,0.0085
+Portugal,39,39,PT-39,Antunes,Antunes,84706,0.0082
+Portugal,40,40,PT-40,Matos,Matos,84706,0.0082
+Portugal,41,41,PT-41,Fonseca,Fonseca,83673,0.0081
+Portugal,42,42,PT-42,Machado,Machado,78508,0.0076
+Portugal,43,43,PT-43,Araújo,Araújo,71277,0.0069
+Portugal,44,44,PT-44,Barbosa,Barbosa,71277,0.0069
+Portugal,45,45,PT-45,Tavares,Tavares,69211,0.0067
+Portugal,46,46,PT-46,Lourenço,Lourenço,67145,0.0065
+Portugal,47,47,PT-47,Castro,Castro,64046,0.0062
+Portugal,48,48,PT-48,Figueiredo,Figueiredo,64046,0.0062
+Portugal,49,49,PT-49,Azevedo,Azevedo,61980,0.0060
+Portugal,50,50,PT-50,Freitas,Freitas,61980,0.0060
+Romania,1,1,RO-1,Popa,Popa,,
+Romania,2,2,RO-2,Popescu,Popescu,,
+Romania,3,3,RO-3,Pop,Pop,,
+Romania,4,4,RO-4,Radu,Radu,,
+Romania,5,5,RO-5,Dumitru,Dumitru,,
+Romania,6,6,RO-6,Stan,Stan,,
+Romania,7,7,RO-7,Stoica,Stoica,,
+Romania,8,8,RO-8,Gheorghe,Gheorghe,,
+Romania,9,9,RO-9,Matei,Matei,,
+Romania,10,10,RO-10,Ciobanu,Ciobanu,,
+Romania,11,11,RO-11,Ionescu,Ionescu,,
+Romania,12,12,RO-12,Rusu,Rusu,,
+Spain,1,1,ES-1,García,García,1378000,0.0348
+Spain,2,2,ES-2,Fernández,Fernández,851000,0.0215
+Spain,3,3,ES-3,González,González,839000,0.0212
+Spain,4,4,ES-4,Rodríguez,Rodríguez,804000,0.0203
+Spain,5,5,ES-5,López,López,796000,0.0201
+Spain,6,6,ES-6,Martínez,Martínez,788000,0.0197
+Spain,7,7,ES-7,Sánchez,Sánchez,725000,0.0183
+Spain,8,8,ES-8,Pérez,Pérez,709000,0.0179
+Spain,9,9,ES-9,Martín,Martín,459000,0.0116
+Spain,10,10,ES-10,Gómez,Gómez,440000,0.0111
+Spain,11,11,ES-11,Ruiz,Ruiz,321000,0.0081
+Spain,12,12,ES-12,Hernández,Hernández,305000,0.0077
+Spain,13,13,ES-13,Jiménez,Jiménez,293000,0.0074
+Spain,14,14,ES-14,Díaz,Díaz,293000,0.0074
+Spain,15,15,ES-15,Álvarez,Álvarez,273000,0.0069
+Spain,16,16,ES-16,Moreno,Moreno,261000,0.0066
+Spain,17,17,ES-17,Muñoz,Muñoz,241000,0.0061
+Spain,18,18,ES-18,Alonso,Alonso,206000,0.0052
+Spain,19,19,ES-19,Gutiérrez,Gutiérrez,170000,0.0043
+Spain,20,20,ES-20,Romero,Romero,170000,0.0043
+Spain,21,21,ES-21,Navarro,Navarro,158400,0.0040
+Spain,22,22,ES-22,Torres,Torres,134600,0.0034
+Spain,23,23,ES-23,Domínguez,Domínguez,134600,0.0034
+Spain,24,24,ES-24,Gil,Gil,134600,0.0034
+Spain,25,25,ES-25,Vázquez,Vázquez,130000,0.0033
+Spain,26,26,ES-26,Serrano,Serrano,122700,0.0031
+Spain,27,27,ES-27,Ramos,Ramos,118000,0.0030
+Spain,28,28,ES-28,Blanco,Blanco,118000,0.0030
+Spain,29,29,ES-29,Sanz,Sanz,106900,0.0027
+Spain,30,30,ES-30,Castro,Castro,102900,0.0026
+Spain,31,31,ES-31,Suárez,Suárez,102900,0.0026
+Spain,32,32,ES-32,Ortega,Ortega,99000,0.0025
+Spain,33,33,ES-33,Rubio,Rubio,99000,0.0025
+Spain,34,34,ES-34,Molina,Molina,99000,0.0025
+Spain,35,35,ES-35,Delgado,Delgado,95000,0.0024
+Spain,36,36,ES-36,Ramírez,Ramírez,95000,0.0024
+Spain,37,37,ES-37,Morales,Morales,95000,0.0024
+Spain,38,38,ES-38,Ortiz,Ortiz,87120,0.0022
+Spain,39,39,ES-39,Marín,Marín,83160,0.0021
+Spain,40,40,ES-40,Iglesias,Iglesias,83160,0.0021
+Switzerland,1,1,CH-1,Müller,Müller,31000,
+Switzerland,2,2,CH-2,Meier,Meier,19150,
+Switzerland,3,3,CH-3,Schmid,Schmid,16900,
+Switzerland,4,4,CH-4,Keller,Keller,13000,
+Switzerland,5,5,CH-5,Weber,Weber,11850,
+Switzerland,6,6,CH-6,Huber,Huber,10550,
+Switzerland,7,7,CH-7,Meyer,Meyer,10350,
+Switzerland,8,8,CH-8,Schneider,Schneider,10300,
+Switzerland,9,9,CH-9,Steiner,Steiner,8950,
+Switzerland,10,10,CH-10,Fischer,Fischer,8200,
+Switzerland,11,11,CH-11,Brunner,Brunner,8100,
+Switzerland,12,12,CH-12,Baumann,Baumann,8000,
+Switzerland,13,13,CH-13,Gerber,Gerber,7950,
+Switzerland,14,14,CH-14,Frei,Frei,7750,
+Switzerland,15,15,CH-15,Moser,Moser,7500,
+Ukraine,1,1,UA-1,Melnyk,Melnyk,,
+Ukraine,2,2,UA-2,Shevchenko,Shevchenko,,
+Ukraine,3,3,UA-3,Boyko,Boyko,,
+Ukraine,4,4,UA-4,Kovalenko,Kovalenko,,
+Ukraine,5,5,UA-5,Bondarenko,Bondarenko,,
+Ukraine,6,6,UA-6,Tkachenko,Tkachenko,,
+Ukraine,7,7,UA-7,Kovalchuk,Kovalchuk,,
+Ukraine,8,8,UA-8,Kravchenko,Kravchenko,,
+Ukraine,9,9,UA-9,Yakovenko,Yakovenko,,
+Ukraine,10,10,UA-10,Shevchuk,Shevchuk,,
+Ukraine,11,11,UA-11,Koval,Koval,,
+Ukraine,12,12,UA-12,Polishchuk,Polishchuk,,
+Ukraine,13,13,UA-13,Bondar,Bondar,,
+Ukraine,14,14,UA-14,Tkachuk,Tkachuk,,
+Ukraine,15,15,UA-15,Moroz,Moroz,,
+Ukraine,16,16,UA-16,Marchenko,Marchenko,,
+Ukraine,17,17,UA-17,Lysenko,Lysenko,,
+Ukraine,18,18,UA-18,Rudenko,Rudenko,,
+Ukraine,19,19,UA-19,Savchenko,Savchenko,,
+Ukraine,20,20,UA-20,Petrenko,Petrenko,,
+United Kingdom,1,1,GB-1,Brown,Brown,,
+United Kingdom,2,2,GB-2,Smith,Smith,,
+United Kingdom,3,3,GB-3,Patel,Patel,,
+United Kingdom,4,4,GB-4,Jones,Jones,,
+United Kingdom,5,5,GB-5,Williams,Williams,,
+United Kingdom,6,6,GB-6,Johnson,Johnson,,
+United Kingdom,7,7,GB-7,Taylor,Taylor,,
+United Kingdom,8,8,GB-8,Thomas,Thomas,,
+United Kingdom,9,9,GB-9,Roberts,Roberts,,
+United Kingdom,10,10,GB-10,Khan,Khan,,
+United Kingdom,11,11,GB-11,Lewis,Lewis,,
+United Kingdom,12,12,GB-12,Jackson,Jackson,,
+United Kingdom,13,13,GB-13,Clarke,Clarke,,
+United Kingdom,14,14,GB-14,James,James,,
+United Kingdom,15,15,GB-15,Phillips,Phillips,,
+United Kingdom,16,16,GB-16,Wilson,Wilson,,
+United Kingdom,17,17,GB-17,Ali,Ali,,
+United Kingdom,18,18,GB-18,Mason,Mason,,
+United Kingdom,19,19,GB-19,Mitchell,Mitchell,,
+United Kingdom,20,20,GB-20,Rose,Rose,,
+United Kingdom,21,21,GB-21,Davis,Davis,,
+United Kingdom,22,22,GB-22,Davies,Davies,,
+United Kingdom,23,23,GB-23,Rodríguez,Rodríguez,,
+United Kingdom,24,24,GB-24,Cox,Cox,,
+United Kingdom,25,25,GB-25,Alexander,Alexander,,
+United States,1,1,US-1,Smith,Smith,2376207,
+United States,2,2,US-2,Johnson,Johnson,1857160,
+United States,3,3,US-3,Williams,Williams,1534042,
+United States,4,4,US-4,Brown,Brown,1380145,
+United States,5,5,US-5,Jones,Jones,1362755,
+United States,6,6,US-6,Miller,Miller,1127803,
+United States,7,7,US-7,Davis,Davis,1072335,
+United States,8,8,US-8,Garcia,Garcia,858289,
+United States,9,9,US-9,Rodriguez,Rodriguez,804240,
+United States,10,10,US-10,Wilson,Wilson,783051,
+United States,11,11,US-11,Martinez,Martinez,775072,
+United States,12,12,US-12,Anderson,Anderson,762394,
+United States,13,13,US-13,Taylor,Taylor,720370,
+United States,14,14,US-14,Thomas,Thomas,710696,
+United States,15,15,US-15,Hernandez,Hernandez,706372,
+United States,16,16,US-16,Moore,Moore,698671,
+United States,17,17,US-17,Martin,Martin,672711,
+United States,18,18,US-18,Jackson,Jackson,666125,
+United States,19,19,US-19,Thompson,Thompson,644368,
+United States,20,20,US-20,White,White,639515,
+United States,21,21,US-21,Lopez,Lopez,621536,
+United States,22,22,US-22,Lee,Lee,605860,
+United States,23,23,US-23,Gonzalez,Gonzalez,597718,
+United States,24,24,US-24,Harris,Harris,593542,
+United States,25,25,US-25,Clark,Clark,548369,
+United States,26,26,US-26,Lewis,Lewis,509930,
+United States,27,27,US-27,Robinson,Robinson,503028,
+United States,28,28,US-28,Walker,Walker,501307,
+United States,29,29,US-29,Perez,Perez,488521,
+United States,30,30,US-30,Hall,Hall,473568,
+United States,31,31,US-31,Young,Young,465948,
+United States,32,32,US-32,Allen,Allen,463368,
+United States,33,33,US-33,Sanchez,Sanchez,441242,
+United States,34,34,US-34,Wright,Wright,440367,
+United States,35,35,US-35,King,King,438986,
+United States,36,36,US-36,Scott,Scott,420091,
+United States,37,37,US-37,Green,Green,413477,
+United States,38,38,US-38,Baker,Baker,413351,
+United States,39,39,US-39,Adams,Adams,413086,
+United States,40,40,US-40,Nelson,Nelson,412236,
+United States,41,41,US-41,Hill,Hill,411770,
+United States,42,42,US-42,Ramirez,Ramirez,388987,
+United States,43,43,US-43,Campbell,Campbell,371953,
+United States,44,44,US-44,Mitchell,Mitchell,367433,
+United States,45,45,US-45,Roberts,Roberts,366215,
+United States,46,46,US-46,Carter,Carter,362548,
+United States,47,47,US-47,Phillips,Phillips,351848,
+United States,48,48,US-48,Evans,Evans,342237,
+United States,49,49,US-49,Turner,Turner,335663,
+United States,50,50,US-50,Torres,Torres,325169,
+United States,51,51,US-51,Parker,Parker,324246,
+United States,52,52,US-52,Collins,Collins,317848,
+United States,53,53,US-53,Edwards,Edwards,317070,
+United States,54,54,US-54,Stewart,Stewart,312899,
+United States,55,55,US-55,Flores,Flores,312615,
+United States,56,56,US-56,Morris,Morris,311754,
+United States,57,57,US-57,Nguyen,Nguyen,310125,
+United States,58,58,US-58,Murphy,Murphy,300501,
+United States,59,59,US-59,Rivera,Rivera,299463,
+United States,60,60,US-60,Cook,Cook,294795,
+United States,61,61,US-61,Rogers,Rogers,294403,
+United States,62,62,US-62,Morgan,Morgan,276400,
+United States,63,63,US-63,Peterson,Peterson,275041,
+United States,64,64,US-64,Cooper,Cooper,270097,
+United States,65,65,US-65,Reed,Reed,267443,
+United States,66,66,US-66,Bailey,Bailey,265916,
+United States,67,67,US-67,Bell,Bell,264752,
+United States,68,68,US-68,Gomez,Gomez,263590,
+United States,69,69,US-69,Kelly,Kelly,260385,
+United States,70,70,US-70,Howard,Howard,254779,
+United States,71,71,US-71,Ward,Ward,254121,
+United States,72,72,US-72,Cox,Cox,253771,
+United States,73,73,US-73,Diaz,Diaz,251772,
+United States,74,74,US-74,Richardson,Richardson,249533,
+United States,75,75,US-75,Wood,Wood,247299,
+United States,76,76,US-76,Watson,Watson,242432,
+United States,77,77,US-77,Brooks,Brooks,240751,
+United States,78,78,US-78,Bennett,Bennett,239055,
+United States,79,79,US-79,Gray,Gray,236713,
+United States,80,80,US-80,James,James,233224,
+United States,81,81,US-81,Reyes,Reyes,232511,
+United States,82,82,US-82,Cruz,Cruz,231065,
+United States,83,83,US-83,Hughes,Hughes,229390,
+United States,84,84,US-84,Price,Price,228756,
+United States,85,85,US-85,Myers,Myers,224824,
+United States,86,86,US-86,Long,Long,223494,
+United States,87,87,US-87,Foster,Foster,221040,
+United States,88,88,US-88,Sanders,Sanders,220902,
+United States,89,89,US-89,Ross,Ross,219961,
+United States,90,90,US-90,Morales,Morales,217642,
+United States,91,91,US-91,Powell,Powell,216553,
+United States,92,92,US-92,Sullivan,Sullivan,215640,
+United States,93,93,US-93,Russell,Russell,215432,
+United States,94,94,US-94,Ortiz,Ortiz,214683,
+United States,95,95,US-95,Jenkins,Jenkins,213737,
+United States,96,96,US-96,Gutierrez,Gutierrez,212905,
+United States,97,97,US-97,Perry,Perry,212644,
+United States,98,98,US-98,Butler,Butler,210879,
+United States,99,99,US-99,Barnes,Barnes,210426,
+United States,100,100,US-100,Fisher,Fisher,210279,
+Australia,1,1,AU-1,Smith,Smith,114997,
+Australia,2,2,AU-2,Jones,Jones,55679,
+Australia,3,3,AU-3,Williams,Williams,55555,
+Australia,4,4,AU-4,Brown,Brown,54896,
+Australia,5,5,AU-5,Wilson,Wilson,46961,
+Australia,6,6,AU-6,Taylor,Taylor,45328,
+Australia,7,7,AU-7,Johnson,Johnson,33435,
+Australia,8,8,AU-8,White,White,31099,
+Australia,9,9,AU-9,Martin,Martin,31058,
+Australia,10,10,AU-10,Anderson,Anderson,30910,
+Australia,11,11,AU-11,Thompson,Thompson,29931,
+Australia,12,12,AU-12,Nguyen,Nguyen,29798,
+Australia,13,13,AU-13,Turner,Turner,27276,
+Australia,14,14,AU-14,Walker,Walker,26688,
+Australia,15,15,AU-15,Harris,Harris,26025,
+Australia,16,16,AU-16,Lee,Lee,25612,
+Australia,17,17,AU-17,Ryan,Ryan,25526,
+Australia,18,18,AU-18,Robinson,Robinson,25168,
+Australia,19,19,AU-19,Kelly,Kelly,25014,
+Australia,20,20,AU-20,Murphy,Murphy,24993,
+New Zealand,1,1,NZ-1,Singh,Singh,,
+New Zealand,2,2,NZ-2,Smith,Smith,,
+New Zealand,3,3,NZ-3,Kaur,Kaur,,
+New Zealand,4,4,NZ-4,Williams,Williams,,
+New Zealand,5,5,NZ-5,Patel,Patel,,
+New Zealand,6,6,NZ-6,Wilson,Wilson,,
+New Zealand,7,7,NZ-7,Brown,Brown,,
+New Zealand,8,8,NZ-8,Taylor,Taylor,,
+New Zealand,9,9,NZ-9,Jones,Jones,,
+New Zealand,10,10,NZ-10,Sharma,Sharma,,
