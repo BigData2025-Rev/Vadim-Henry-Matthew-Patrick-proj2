@@ -56,13 +56,22 @@ def randomGammaIndexes(shape,scale,n, min, max): #,list
     indexes = np.clip(gamma,a_min=min,a_max=max) #ensure the indexes are not out of range
     return indexes
 
+def randomChoiceIndexes(n, min, max, probs):
+    range = np.arange(min, max+1, dtype=int)#max+1 since it is [min,max)
+    #print("Probs:" + str(len(probs)))
+    #print("range:" + str(len(range)))
+    indexes = rng.choice(a=range,size=n,p=probs)
+    return indexes
 
 #Creates the 7,500 unique customers
 #n: number of customers
 def customerList(n, countries, shape, scale, min, max, spark, randSeed):
     #Possible id values range from min to max-1
     ids = rng.choice(a=spark.sparkContext.range(min,max).collect(),size=n,replace=False)
-    countryIndexes = randomGammaIndexes(shape, scale, n, 0, len(countries)-1) #Pickout countries with a gamma distribution
+    d = 15000 #divisor
+    probs = [2892/d,1855/d, 1590/d, 1364/d, 1124/d, 1003/d, 927/d, 878/d, 745/d, 621/d, 437/d, 399/d, 286/d, 225/d, 212/d, 206/d, 67/d, 57/d, 47/d, 39/d, 26/d]
+    countryIndexes = randomChoiceIndexes(n, 0, len(countries)-1, probs)
+    #countryIndexes = randomGammaIndexes(shape, scale, n, 0, len(countries)-1) #Pickout countries with a gamma distribution
 
     result = []
     for i in range(n):
@@ -126,6 +135,7 @@ def finalLists(n1, n2, repeat, onetime, repeatChance, spark):
             names.append(onetime[index][1])
             countries.append(onetime[index][2])
             cities.append(repeat[index][3])
+            acc += 1
     return ids, names, countries, cities
 
 #Creates the data frame for the dataset with order ids, customer ids, customer names, and countries
@@ -138,10 +148,12 @@ def makeDataFrame(spark):
     #Create the list of repeat customers
     min = 0 + customerIdBase ; max = nHalf + customerIdBase
     repeatCustomers, randSeed = customerList(nHalf,countries,shape, scale, min, max, spark, randSeed)
+    #print(repeatCustomers)
 
     #Create the list of onetime customers
     min = nHalf + customerIdBase ; max = n+ customerIdBase
     onetimeCustomers, randSeed = customerList(nHalf,countries,shape, scale, min, max, spark, randSeed)
+    #print(onetimeCustomers)
 
     #Use the repeat and onetime customer lists to make a final list where the repeats each appear once in the first half
     #and have a chance of reappearing in the second half
