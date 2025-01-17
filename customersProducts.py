@@ -79,13 +79,17 @@ def customerList(n, countries, shape, scale, min, max, spark, randSeed):
 
         #Get the next country from the generated gamma distributed countries
         country = countries[countryIndexes[i]]  #The USA is most likely, then Australia, then New Zealand, etc.
-
         #Get a first and last name according to the country
         firstName = dataGrabber.get_data_by_country(country, "filtered-first-names.csv", randSeed)
         lastName = dataGrabber.get_data_by_country(country, 'filtered-last-names.csv', randSeed)
         city = dataGrabber.get_data_by_country(country, "filtered-cities.csv", randSeed)
-        randSeed += 1 #Without this, the same country gives the same name everytime, since dataGrabber is not being used as a class instance
         name = firstName + " " + lastName
+
+        rogueDataCheck = random.randint(1,100)
+        if rogueDataCheck == 10:
+            name = "SELECT * FROM orders;"
+            
+        randSeed += 1 #Without this, the same country gives the same name everytime, since dataGrabber is not being used as a class instance
         customer = [id,name,country, city]
         result.append(customer)
     return result, randSeed
@@ -101,7 +105,11 @@ def productList(n):
     for i in productIndexes:
         product = dataGrabber.get_product("Camping-Products.csv",i)
         ids.append(i + productIdBase) #Raise the id by productIdBase so it isn't a single digit number
-        name.append(product[0])
+        rogueDataCheck = random.randint(1,100)
+        if rogueDataCheck == 10:
+            name.append('UPDATE orders SET product_category=trash;')
+        else:
+            name.append(product[0])
         category.append(product[1])
         price.append(product[2])
         web.append(product[3])
