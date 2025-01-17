@@ -1,0 +1,1 @@
+countriesList = ["United States", "Australia", "New Zealand", "France", "Germany", "Switzerland", "Spain", "Portugal", "United Kingdom", "Ireland", "Italy", "Poland", "Belgium", "Netherlands", "Austria", "Czechia", "Hungary", "Ukraine", "Russian Federation", "Romania", "Japan"]
